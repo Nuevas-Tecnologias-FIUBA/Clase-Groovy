@@ -5,7 +5,7 @@ Este repositorio contiene los contenidos y algunos recursos vinculados con la cl
 
 ## Recursos
 
-* Sitio oficial Groovy: [groovy.codehaus.org] (groovy.codehaus.org)
+* Sitio oficial de Groovy: [http://groovy.codehaus.org] (http://groovy.codehaus.org)
 * Sitio de github de la materia: [http://nuevas-tecnologias-fiuba.github.com](http://nuevas-tecnologias-fiuba.github.com)
 
 
